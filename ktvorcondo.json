@@ -1,0 +1,135 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "L\u2019VIV is a condominium in Newton.<br><br> You could not force me to l\u2019viv there even if my l\u2019viv depended on it.<br><br> \"Transcend the everyday with a new level of stylish living. Imaginatively-designed for the urban elite, L\u2019VIV is a choice collection of freehold apartments in Singapore\u2019s prestigious Newton district.\"",
+        "image": "https://sg2-cdn.pgimgs.com/projectnet-project/5816/ZPPHO.103850051.R800X800.jpg"
+      },
+      "number": 1,
+      "prompt": "KTV or Condo: L'viv?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "One Exclusive is a KTV lounge in Lee Kai House in Bugis",
+        "image": "https://scontent.fsin9-2.fna.fbcdn.net/v/t1.6435-0/p370x247/81439132_105775584275754_839372919015473152_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=85a577&_nc_ohc=g56Gx7AMzD0AX9rh0yL&_nc_ht=scontent.fsin9-2.fna&oh=ebbbdb1e53e64ff57448d36d4b4377a0&oe=60F83E7D"
+      },
+      "number": 2,
+      "prompt": "KTV or Condo: One Exclusive?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "ICON 2 a.k.a. ICON II is a KTV lounge in Parklane Shopping Mall in Selegie",
+        "image": "https://scontent.fsin9-2.fna.fbcdn.net/v/t1.18169-9/19146210_660081014187582_1409497989286272208_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=o2BTvf-FmgoAX9-wl8U&_nc_ht=scontent.fsin9-2.fna&oh=dc24c8a3950a6f752afc82a22fadf8fe&oe=60F84AE5"
+      },
+      "number": 3,
+      "prompt": "KTV or Condo: ICON 2?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The Charm is a KTV lounge in Fook Hai Building in Chinatown that is so sus I could not find a picture of the place"
+      },
+      "number": 4,
+      "prompt": "KTV or Condo: The Charm?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "D\u2019Zire is a condominium in Hougang. Not very D\u2019Zireable.",
+        "image": "https://dwk5ggjgl5r05.cloudfront.net/v3/DpaKRnNVFE9d4kxPEjewXZ?mode=fill&text=99.co&sampling=lanczos&quality=80&version=1&is_watermark=True&signature=ef74152eed47db33bf02964cadf5e6e4e6fd0462&height=442&width=740"
+      },
+      "number": 5,
+      "prompt": "KTV or Condo: D'zire?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Corona Ville is a condominium in Bukit Timah. Unfortunate.",
+        "image": "https://dwk5ggjgl5r05.cloudfront.net/v3/kiLsMPFigfTbsYyck2CCtC?mode=fill&text=99.co&sampling=lanczos&quality=80&version=1&is_watermark=True&signature=ba356962364a4391e1a260822df22b81e6f5d7ba&height=442&width=740"
+      },
+      "number": 6,
+      "prompt": "KTV or Condo: Corona Ville?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "QUINN is a KTV lounge located along Syed Alwi Road.",
+        "image": "https://chiongster.com/wp-content/uploads/2019/01/quinn.jpg"
+      },
+      "number": 7,
+      "prompt": "KTV or Condo: QUINN?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The MKZ is a condominium located along McKenzie Road. Get it? Get it?",
+        "image": "https://dwk5ggjgl5r05.cloudfront.net/v3/pgE4sPBxuLzy4CPyiPdRPJ?mode=fill&text=99.co&sampling=lanczos&quality=80&version=1&is_watermark=True&signature=9818e2fa5b53c1a2fa496660ac3854d85f248ee5&height=442&width=740"
+      },
+      "number": 8,
+      "prompt": "KTV or Condo: MKZ?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "ION is a KTV lounge in Balmoral Plaza. Not the mall.",
+        "image": "https://chiongster.com/wp-content/uploads/2017/02/ion.jpg"
+      },
+      "number": 9,
+      "prompt": "KTV or Condo: ION?"
+    },
+    {
+      "answers": [
+        "KTV",
+        "Condo"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The Luxurie is a condominium in Sengkang. Scrumptious.",
+        "image": "https://dwk5ggjgl5r05.cloudfront.net/v3/4uwXWu3A79vfwHqREGTdd8?mode=fill&text=99.co&sampling=lanczos&quality=80&version=1&is_watermark=True&signature=0a9858be37be98e137c9e3a3675e46f5d49133b4&height=442&width=740"
+      },
+      "number": 10,
+      "prompt": "KTV or Condo: LUXURIE?"
+    }
+  ],
+  "title": "KTV or Condo?",
+  "url": "https://ktv.or-condo.com"
+}
