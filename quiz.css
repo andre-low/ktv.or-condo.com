@@ -91,8 +91,8 @@ html, body {
   font-style: italic;
 }
 .correct-image {
-  max-height: 350px;
-  max-width: 350px;
+  max-height: 320px;
+  max-width: 320px;
 }
 
 .quiz-title {
