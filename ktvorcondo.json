@@ -3,7 +3,8 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 1,
@@ -16,12 +17,13 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 0,
         "text": "One Exclusive is a KTV lounge in Lee Kai House in Bugis",
-        "image": "https://scontent.fsin9-2.fna.fbcdn.net/v/t1.6435-0/p370x247/81439132_105775584275754_839372919015473152_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=85a577&_nc_ohc=g56Gx7AMzD0AX9rh0yL&_nc_ht=scontent.fsin9-2.fna&oh=ebbbdb1e53e64ff57448d36d4b4377a0&oe=60F83E7D"
+        "image": "https://chiongster.com/wp-content/uploads/2020/01/one-exclusive.jpg"
       },
       "number": 2,
       "prompt": "KTV or Condo: One Exclusive?"
@@ -29,12 +31,13 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 0,
         "text": "ICON 2 a.k.a. ICON II is a KTV lounge in Parklane Shopping Mall in Selegie",
-        "image": "https://scontent.fsin9-2.fna.fbcdn.net/v/t1.18169-9/19146210_660081014187582_1409497989286272208_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=o2BTvf-FmgoAX9-wl8U&_nc_ht=scontent.fsin9-2.fna&oh=dc24c8a3950a6f752afc82a22fadf8fe&oe=60F84AE5"
+        "image": "https://chiongster.com/wp-content/uploads/2017/02/icon-2.jpg"
       },
       "number": 3,
       "prompt": "KTV or Condo: ICON 2?"
@@ -42,7 +45,8 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 0,
@@ -54,7 +58,8 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 1,
@@ -67,7 +72,8 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 1,
@@ -80,11 +86,12 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
-        "index": 0,
-        "text": "QUINN is a KTV lounge located along Syed Alwi Road.",
+        "index": 2,
+        "text": "QUINN is a KTV lounge located along Syed Alwi Road.<br><br>The Quinn is also a condo located along Bartley Road.<br><br>This just proves the point 😂",
         "image": "https://chiongster.com/wp-content/uploads/2019/01/quinn.jpg"
       },
       "number": 7,
@@ -93,11 +100,12 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 1,
-        "text": "The MKZ is a condominium located along McKenzie Road. Get it? Get it?",
+        "text": "The MKZ is a condominium located along Mackenzie Road. Get it? Get it?",
         "image": "https://dwk5ggjgl5r05.cloudfront.net/v3/pgE4sPBxuLzy4CPyiPdRPJ?mode=fill&text=99.co&sampling=lanczos&quality=80&version=1&is_watermark=True&signature=9818e2fa5b53c1a2fa496660ac3854d85f248ee5&height=442&width=740"
       },
       "number": 8,
@@ -106,11 +114,12 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 0,
-        "text": "ION is a KTV lounge in Balmoral Plaza. Not the mall.",
+        "text": "ION is a KTV lounge in Balmoral Plaza, not ION.",
         "image": "https://chiongster.com/wp-content/uploads/2017/02/ion.jpg"
       },
       "number": 9,
@@ -119,7 +128,8 @@
     {
       "answers": [
         "KTV",
-        "Condo"
+        "Condo",
+        "Both"
       ],
       "correct": {
         "index": 1,
